@@ -1,0 +1,31 @@
+.guest li{
+	float: left;
+	margin: 0 32px 14px 0;
+	width: 276px;
+	height: 445px;
+}
+.guest li:nth-child(4n){
+	margin-right: 0;
+}
+.guest h6{
+	font-family: "Goudy Old Style";
+	font-size: 25px;
+	font-weight: normal;
+}
+.guest span{
+	font-family: "宋体";
+	color: #D5AD5B;
+	font-size: 16px;
+	padding-left: 36px;
+}
+.guest p{
+	font-family: "方正舒体";
+	font-size: 14px;
+	text-align: center;
+}
+.guest em{
+	display: block;
+	color: #999;
+	line-height: 24px;
+	text-align: center;
+}

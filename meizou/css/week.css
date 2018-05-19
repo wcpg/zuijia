@@ -1,0 +1,57 @@
+.focusbox{
+	margin: 0 auto;
+}
+.focus {
+	width:100%;
+	margin: 25px auto;
+	position: relative;
+	overflow: hidden;
+	margin-bottom: 15px;
+	overflow: hidden;
+}
+/*数字按钮样式*/
+.focus .num {
+	overflow: hidden;
+	height: 25px;
+	position: absolute;
+	bottom: 12px;
+	left: 50%;
+	zoom: 1;
+	z-index: 3
+}
+.focus .num li {
+	width: 25px;
+	height: 25px;
+	line-height: 25px;
+	text-align: center;
+	font-weight: 400;
+	font-family: "微软雅黑", Arial;
+	color: #FFFFFF;
+	background: #444444;
+	margin-right: 10px;
+	border-radius: 50%;
+	cursor: pointer;
+	float: left;
+}
+.focus .num li.on {
+	background: #EFD4E3;
+} /*当前项*/
+/*上一个  下一个*/
+.focus .prev, .focus .next {
+	display: none;
+	width: 40px;
+	height: 100px;
+	background: url(../images/btn.png) no-repeat;
+	position: absolute;
+	top: 30%;
+}
+.focus .prev {
+	left: 0;
+}
+.focus .next {
+	right: 0;
+	background-position: right
+}
+.banner_img{
+	width: 100%;
+}

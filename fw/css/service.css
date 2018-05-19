@@ -1,0 +1,59 @@
+﻿@charset "utf-8";
+.ser_pic{
+	position: relative;
+	float: left;
+	margin: 0 20px 96px 0;
+	width: 380px;
+	height: 650px;
+}
+.ser_opt{
+	width: 380px;
+	height: 205px;
+	background-color: #000;
+	padding-top: 65px;
+}
+.ser_tit{
+	font-family: "华文行楷";
+	font-size: 20px;
+	color: #fff;
+	margin-bottom: 18px;
+	text-align: center;
+}
+.ser_txt{
+	font-size: 14px;
+	color: #fff;
+	text-align: center;
+	line-height: 30px;
+	margin-bottom: 36px;
+}
+.radius{
+	display: block;
+	width: 142px;
+	height: 39px;
+	line-height: 39px;
+	text-align: center;
+	border: 1px solid #fff;
+	border-radius: 20px;
+	margin: 0 auto;
+	font-size: 14px;
+	text-decoration: none;
+	color: #fff;
+}
+.ser_opt a:hover{
+	background-color: #C2A765;
+}
+.opacity{
+	position: absolute;
+	left: 20px;
+	bottom: 230px;
+	width: 338px;
+	height: 80px;
+	background-color: rgba(194,167,101,.5);
+}
+.money{
+	font-family: "Flip Flop";
+	font-size: 40px;
+	text-align: center;
+	color: #fff;
+	line-height: 80px;
+}

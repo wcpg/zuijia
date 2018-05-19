@@ -1,0 +1,41 @@
+﻿@charset "utf-8";
+
+.rightsidebar{  font-size: 12px; color: red; float: right; margin-top: -46px;}
+.rightsidebar span{float: left;}
+.rightsidebar p{float: left; margin-top:0;}
+.rightsidebar a{font-size: 12px; color: red;}
+.shop{ margin: 0 auto; width: 1197px; height: 1199px;}
+.xbox{ width: 1197px; height: 56px; background-color: #567BA6;}
+.tu1{ width: 1187px; border-right: 7px #567BA6 solid; border-left: 3px #567BA6 solid;}
+.frombiaodan{ margin-left: 114px; width: 781px; height: 571px;}
+.sbox{ width: 1187px; border-right: 7px #567BA6 solid; height:642px; border-bottom:8px #567BA6 solid; 
+border-left: 3px #567BA6 solid;}
+h3{ float: right; font-size: 59px; color: #FF0000; margin-right:126px; margin-top: 9px;}
+form input{ width: 573px; height: 38px}
+form { width: 580px; margin: 0 auto;}
+
+.tj{ width: 84px; height: 32px; margin:20px 226px;} 
+.bot_img{
+	text-align: center;
+	margin-bottom: 100px;
+	margin-top: 233px;
+}
+.footer{
+	background-color: rgba(243,214,211,.7);
+	padding-bottom: 20px;
+}
+.left_top{
+	float: left;
+	box-shadow: 0px 2px 5px 0px rgba(0,0,0,0.5);
+}
+.logo2_tit{
+	padding: 45px 0 0 30px;
+	font-family: "华文行楷";
+	font-size: 22px;
+}
+.copy{
+	padding: 80px 0 0 95px;
+}
+.sch{
+	margin-top: 15px;
+}
